@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Meetup 2.0</string>
+    <string name="please_enter_your_username">Please enter your username</string>
+    <string name="please_enter_your_password">Please enter your Password</string>
+    <string name="display_1">Display 1</string>
+    <string name="display_2">Display 2</string>
+    <string name="display_3">Display 3</string>
+</resources>
